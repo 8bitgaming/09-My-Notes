@@ -1,10 +1,6 @@
 {
   "notesArray": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "asdf",
       "text": "asdf",
       "id": "wjrl7bkaowkznq5u8p"
@@ -13,6 +9,16 @@
       "title": "Its another note",
       "text": "fantastic this is working",
       "id": "wjrl7bkaowkznq721s"
+    },
+    {
+      "title": "one more",
+      "text": "nasdfasd",
+      "id": "wjrl7bkccgkzp1c3kj"
+    },
+    {
+      "title": "Trying again",
+      "text": "adsfasd",
+      "id": "wjrl7bkccgkzp1crcy"
     }
   ]
 }
