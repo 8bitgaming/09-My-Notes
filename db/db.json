@@ -1,24 +1,9 @@
 {
   "notesArray": [
     {
-      "title": "asdf",
-      "text": "asdf",
-      "id": "wjrl7bkaowkznq5u8p"
-    },
-    {
-      "title": "Its another note",
-      "text": "fantastic this is working",
-      "id": "wjrl7bkaowkznq721s"
-    },
-    {
-      "title": "one more",
-      "text": "nasdfasd",
-      "id": "wjrl7bkccgkzp1c3kj"
-    },
-    {
-      "title": "Trying again",
-      "text": "adsfasd",
-      "id": "wjrl7bkccgkzp1crcy"
+      "title": "Example of a note",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": "wjrl7bk1f4kzt2gheo"
     }
   ]
 }
